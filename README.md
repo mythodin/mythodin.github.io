@@ -1,3 +1,3 @@
 # mythodin.github.io
-GitHub Page
-Test, Test safßamsfpmapmgfüpgüaüsbmamkbüm
+
+This is my personal GitHub page.
