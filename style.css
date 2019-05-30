@@ -84,7 +84,24 @@ user-select: none;
 }
 
 
+.TakeMeBackButton{
+    border-radius: 50px;
+    border:4px solid #87CEFA;
+    background: #87CEFA;
+    padding: 5px 10px;
+    font-size: 35px;
+    color:#FFFFFF;
+    transition: 0.65s;
+    position: relative;
+    overflow: hidden;
+    margin: 2%;
+}
 
+.Error404Body{
+   background-image: url("img/Error404.png");
+   width:100%;
+   height:100%;
+}
 
 
 /*---Firefox Bugfix---*/
